@@ -1,6 +1,7 @@
 # Duel
 A program that simulates a duel between 3 shooters.
 <br /><br />
+### Synopsis
 The first shooter, Aaron, is a poor shot and only hits his target with a proability of 1/3.
 
 The second shooter, Bob, is a bit better and hits his target with a proability of 1/2.
